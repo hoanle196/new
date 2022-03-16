@@ -1,0 +1,14 @@
+abc
+Cd ( change directory)
+Mkdir ( make directory	) tạo folder
+echo "imhoanle">imhoanle.txt - tạo file
+Thao tác với gits
+1 git init khởi tạo với git
+2 git status kiểm tra trạng thái
+3 git add ( add tên file, add .)
+4 git commit -m "comment"
+
+Thao tác clone code ( all dl )
+Git clone + đường dẫn
+Thao tác clone file của ng khác về máy local
+Git pull
